@@ -1,10 +1,10 @@
 
 <h1 align="center">
-    <img alt="KMeans - Mall Customers" title="#OCRRG" src="./assets/banner.png" />
+    <img alt="KMeans - Make Blobs" title="#OCRRG" src="./assets/banner.png" />
 </h1>
 
 <h4 align="center"> 
-	[∑] KMeans - Mall Customers 🚀 Data Science
+	[∑] KMeans - Make Blobs 🚀 Data Science
 </h4>
 
 <p align="center">
@@ -67,6 +67,6 @@ Before starting, you will need to have the following tools installed on your mac
 
 This project is under the MIT license.
 
-Made with ❤️ by **Emerson Rafael** 👋🏽 [Entre em contato!](https://www.linkedin.com/in/emerson-rafael/)
+Made with ❤️ by **Emerson Rafael** 👋🏽 [Contact Me!](https://www.linkedin.com/in/emerson-rafael/)
 
 [Python]: https://www.python.org/downloads/
